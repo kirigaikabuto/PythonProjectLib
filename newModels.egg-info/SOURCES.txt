@@ -1,4 +1,6 @@
+README.md
 setup.py
+models/Grade.py
 models/__init__.py
 models/person.py
 newModels.egg-info/PKG-INFO
